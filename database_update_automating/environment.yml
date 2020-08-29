@@ -1,0 +1,39 @@
+name: octo_maj_env
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2020.6.24=0
+  - certifi=2020.6.20=py37_0
+  - libcxx=10.0.0=1
+  - libedit=3.1.20191231=haf1e3a3_0
+  - libffi=3.3=h0a44026_1
+  - ncurses=6.2=h0a44026_1
+  - openssl=1.1.1g=h1de35cc_0
+  - pip=20.1.1=py37_1
+  - python=3.7.7=hf48f09d_4
+  - readline=8.0=h1de35cc_0
+  - setuptools=47.3.1=py37_0
+  - sqlite=3.32.3=hffcf06c_0
+  - tk=8.6.10=hb0a8c7a_0
+  - wheel=0.34.2=py37_0
+  - xz=5.2.5=h1de35cc_0
+  - zlib=1.2.11=h1de35cc_3
+  - pip:
+    - beautifulsoup4==4.9.1
+    - chardet==3.0.4
+    - idna==2.10
+    - lxml==4.5.1
+    - mysql-connector-python==8.0.20
+    - numpy==1.19.0
+    - pandas==1.0.5
+    - protobuf==3.12.2
+    - python-dateutil==2.8.1
+    - pytz==2020.1
+    - requests==2.24.0
+    - six==1.15.0
+    - soupsieve==2.0.1
+    - sqlalchemy==1.3.18
+    - urllib3==1.25.9
+    - xlrd==1.2.0
+prefix: /Users/geraldbouget/opt/anaconda3/envs/octo_maj_env
+
